@@ -1,1 +1,1 @@
-Projeto usando JavaScript puro
+Projeto usando JavaScript puro com Orientação a Objetos
